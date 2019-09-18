@@ -1,0 +1,13 @@
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\bin\Debug\ServiceInstaller.exe.config
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\obj\Debug\ServiceInstaller.csprojResolveAssemblyReference.cache
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\obj\Debug\ServiceInstaller.Form1.resources
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\obj\Debug\ServiceInstaller.Properties.Resources.resources
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\obj\Debug\ServiceInstaller.csproj.GenerateResource.Cache
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\bin\Debug\ServiceInstaller.exe
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\bin\Debug\ServiceInstaller.pdb
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\obj\Debug\ServiceInstaller.exe
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\obj\Debug\ServiceInstaller.pdb
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\bin\Debug\ServiceInstaller.exe.manifest
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\bin\Debug\ServiceInstaller.application
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\obj\Debug\ServiceInstaller.exe.manifest
+c:\users\malan\documents\visual studio 2015\Projects\ServiceInstaller\ServiceInstaller\obj\Debug\ServiceInstaller.application
